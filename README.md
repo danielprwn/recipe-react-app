@@ -1,8 +1,10 @@
-# React JS Recipe Web App
+# React JS Recipe Web App 
 
-✔ Add, edit and delete your notes.
-✔ Filtering your notes.
-✔ Change lgiht and dark mode.
+✔ Searching input recipes form.
+✔ Categories for different national cuisines.
+✔ Recipe details and ingredients.
+✔ Fetching data from API.
+
 
 ## Technologies ✅ HTML ✅ Styled Components ⚛ React JS. 
 
@@ -12,7 +14,9 @@ Download the repository and run it locally:
 
 ### `npm start`
 
-Key API from: https://spoonacular.com/ insert in .env file. 
+Key API from: https://spoonacular.com/ insert in .env file.
+
+The desktop application is not fully responsive.
 
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
