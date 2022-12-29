@@ -1,4 +1,4 @@
-# React JS Recipe Web App 
+# React JS Recipe Web App 🧑‍🍳
 
 ✔ Searching input recipes form.
 ✔ Categories for different national cuisines.
